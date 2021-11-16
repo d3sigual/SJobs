@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+h2::first-letter {
+	font-size: 125px;
+	color: black;
+}
+
+h2 {
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+}
+
+body {
+	background-color: #ADD8E6;
+}
+
+p::first-line {
+	color: red;
+}
+
+a.yellowhover:hover {
+	background-color: yellow;
+}
+
+.links {
+	text-align: left;
+}
+
+a.white:link {
+	background-color: white;
+}
+
+a.white:visited {
+	background-color: blue;
+}
+
+section.grande {
+	font-size: 20px;
+}
+
+nav {
+	color: blue;
+	text-align: center;
+}
+
+address {
+	font-style: italic;
+}
+.floatright{
+	float: right;
+}
